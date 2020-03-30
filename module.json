@@ -1,0 +1,23 @@
+{
+  "title":"Special blocks",
+  "name":"special_blocks",
+  "description":"Small information blocks on a pages e.g. items categories, clients previews, help blocks, footer blocks etc.",
+  "icon":"<i class=\"fa fa-list-alt\"></i>",
+  "version":"1.0",
+  "date":"2017-08-07",
+  "author":"mrinmiro@gmail.com",
+  "compatible_cores":["1.0"],
+  "dashboard_menu":{
+    "/catalog":"<i class=\"fa fa-list-alt\"></i> *Catalog blocks*",
+    "/footer":"<i class=\"fa fa-list-alt\"></i> *Footer blocks*",
+    "/home_big":"<i class=\"fa fa-list-alt\"></i> *Home big blocks*",
+    "/home":"<i class=\"fa fa-list-alt\"></i> *Home blocks*",
+    "/home_text":"<i class=\"fa fa-list-alt\"></i> *Home long text*",
+    "/side":"<i class=\"fa fa-list-alt\"></i> *Side blocks*",
+    "/top":"<i class=\"fa fa-list-alt\"></i> *Top blocks*",
+    "/bottom":"<i class=\"fa fa-list-alt\"></i> *Bottom blocks*",
+    "../../../admin/modules/options/special_blocks":"<i class=\"fa fa-cog\"></i> *Module options*"
+  },
+  "price":"0",
+  "":""
+}
